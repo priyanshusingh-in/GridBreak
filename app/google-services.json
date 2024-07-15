@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "718859326463",
+    "project_id": "gridbreak-cd2b8",
+    "storage_bucket": "gridbreak-cd2b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718859326463:android:86a01a82476986b3270dca",
+        "android_client_info": {
+          "package_name": "com.huffmancoding.gridbreak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYeDnTKF4kRGVOWbkG_mM_hst_Dd83-pM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
