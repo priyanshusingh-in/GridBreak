@@ -17,9 +17,7 @@ online game. The development process
 provided valuable insights into Android
 app development, real-time database
 management, and user interface design.
-## Authors
 
-- [@priyanshusingh-in](https://github.com/priyanshusingh-in)
 ## Installation
 
 Path to download the .apk file-> app/release/app-release.apk
@@ -45,6 +43,10 @@ Path to download the .apk file-> app/release/app-release.apk
 **Client:** XML, Kotlin
 
 **Server:** Firebase Firestore Database
+
+## Authors
+
+- [@priyanshusingh-in](https://github.com/priyanshusingh-in)
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshusingh-in/)
